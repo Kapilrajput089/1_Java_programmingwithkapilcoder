@@ -1,6 +1,7 @@
 // write a program to use Unary operator in java with kapilcoder.
  public class UnaryOperators{
     public static void main(String[] args) {
+        // unary operators are :-(+,-,++,--).
         int x=20;
         ++x; //pre Increment Operator 
         System.out.println("value of x : = "+x);
@@ -10,6 +11,7 @@
         System.out.println("value of x : = "+x);
         x--; // post decrement operator
         System.out.println("value of x : = "+x);
+         
 
 
 
