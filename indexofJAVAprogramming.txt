@@ -3,3 +3,8 @@
 3 => Data types and keywords.
 4 => Type Convesion in java.
 5 => Operator in java.
+6 => Decision Making in java.
+7 => Static Members in java.
+8 => Command line arguments in java.
+9 => Class and Object in java.
+10 => Wrapper class in java.
