@@ -21,7 +21,7 @@ public class ObjExample{
         Box b1 = new Box();
         b1.setDimension(10,20,30);
         b1.showData();
-        Box b2 = new Box();
+      //  Box b2 = new Box();
        // b2.showData();
     }
 }
