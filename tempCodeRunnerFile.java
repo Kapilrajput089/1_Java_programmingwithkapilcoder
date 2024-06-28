@@ -1,8 +1,10 @@
-public class Intreest{
-    public static void main(String [] args){
-        int r=3,p=10000,t=2,si;
-        si=r*p*t/100;
-    System.out.println("simple "+si);
 
+public class ArrayExample{
+   public static void main(String[] args) {
+        int arr[]=new int[5];
+        for(int i=0;i<=4;i++)
+        System.out.println(arr[i+i]);
+      //  System.out.println(Arrays.toString(arr));
     }
+    //public int str[]
 }
