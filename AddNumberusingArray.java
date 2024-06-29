@@ -7,10 +7,15 @@ public class AddNumberusingArray{
         int sum=0;
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter 10 Numbers : = ");
-        for(int i=0;i<=9;i++)
+        for(int i=0;i<=9;i++){
           arr[i]=sc.nextInt();
-          for(int  i=0;i<=9;i++)
-          sum=sum+arr[i];
-          System.out.println("Add 10 Number "+sum);
+        }
+      
+          for(int  i=0;i<=9;i++)  
+          sum=sum+arr[i];{
+
+         // sum=sum+arr[i];
+          System.out.println(+sum);
+          }
     }
-}
+} 
